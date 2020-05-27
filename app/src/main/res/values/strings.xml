@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BigData</string>
+    <string name="logo">logo</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="deu_branco_clique_aqui">Deu Branco? Clique Aqui</string>
+    <string name="barrainferior">barraInferior</string>
+    <string name="cadastre_se">cadastre-se</string>
+    <string name="novo_por_aqui_cadastre_se_aqui">Novo Por Aqui? Cadastre-se Aqui</string>
+    <string name="n_o_tem_conta_cadastre_se_aqui">Não Tem Conta? Cadastre-se Aqui</string>
 </resources>
