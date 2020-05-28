@@ -1,2 +1,2 @@
 rootProject.name='BigData'
-include ':app'
+include ':app', ':jsoup-1.13.1'
