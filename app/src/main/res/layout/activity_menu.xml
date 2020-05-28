@@ -15,6 +15,7 @@
         android:layout_marginStart="22dp"
         android:layout_marginLeft="22dp"
         android:layout_marginTop="22dp"
+        android:contentDescription="@string/foto_perfil"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_avatar" />
@@ -93,6 +94,7 @@
         android:layout_height="80dp"
         android:layout_marginTop="30dp"
         android:background="@drawable/ic_music"
+        android:onClick="acessarMusica"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btn_menu_video"

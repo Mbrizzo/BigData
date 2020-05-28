@@ -30,4 +30,5 @@
     <string name="lorem_ipssum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur placerat at tortor eget pulvinar. Pellentesque elementum id dolor eget maximus. Proin massa lorem, facilisis a maximus nec, blandit id justo...</string>
     <string name="video_pato">video_pato</string>
     <string name="t_01ep_02_baile_a_fantasia">T:01EP:02 - Baile a Fantasia</string>
+    <string name="foto_perfil">foto_perfil</string>
 </resources>
