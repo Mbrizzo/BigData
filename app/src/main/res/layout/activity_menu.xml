@@ -81,6 +81,7 @@
         android:layout_marginTop="30dp"
         android:background="@drawable/ic_video"
         android:contentDescription="@string/menu_musica"
+        android:onClick="acessarVideo"
         app:layout_constraintEnd_toStartOf="@+id/btn_menu_musica"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btn_menu_imagem"
