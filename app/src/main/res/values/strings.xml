@@ -22,4 +22,12 @@
     <string name="footer">footer</string>
     <string name="mantenha_a_calma">MANTENHA A CALMA!!!!</string>
     <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="img_video_praia">img_video_praia</string>
+    <string name="rodape_video">rodape_video</string>
+    <string name="nova_temporada_2020">Nova Temporada 2020</string>
+    <string name="t_01ep_01_professores_na_praia">T:01EP:01 - Professores Na Praia</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur placerat at tortor eget pulvinar. Pellentesque elementum id dolor eget maximus. Proin massa lorem, facilisis a maximus nec, blandit id justo...</string>
+    <string name="lorem_ipssum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur placerat at tortor eget pulvinar. Pellentesque elementum id dolor eget maximus. Proin massa lorem, facilisis a maximus nec, blandit id justo...</string>
+    <string name="video_pato">video_pato</string>
+    <string name="t_01ep_02_baile_a_fantasia">T:01EP:02 - Baile a Fantasia</string>
 </resources>
