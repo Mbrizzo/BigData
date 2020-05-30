@@ -31,4 +31,14 @@
     <string name="video_pato">video_pato</string>
     <string name="t_01ep_02_baile_a_fantasia">T:01EP:02 - Baile a Fantasia</string>
     <string name="foto_perfil">foto_perfil</string>
+    <string name="t_01_ep_02_rock_do_chicote">T:01 EP:02_Rock do Chicote</string>
+    <string name="iinput_url">iinput_url</string>
+    <string name="logo_parse">logo_parse</string>
+    <string name="rodape_parse">rodape_parse</string>
+    <string name="jsoup_html_parse">JSOUP - HTML PARSE</string>
+    <string name="pesquisar_na_web">Pesquisar na Web</string>
+    <string name="v_deos_exclusivos">VÍDEOS EXCLUSIVOS</string>
+    <string name="data">05/06/2020</string>
+    <string name="t_01_ep_01festa_na_praia">T:01:EP:01Festa na Praia</string>
+    <string name="data_ep_01">29/05/2020</string>
 </resources>

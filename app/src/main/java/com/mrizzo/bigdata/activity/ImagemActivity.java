@@ -8,14 +8,14 @@ import android.os.Bundle;
 
 import com.mrizzo.bigdata.R;
 import com.mrizzo.bigdata.adapter.FotoAdapter;
-import com.mrizzo.bigdata.model.Post;
+import com.mrizzo.bigdata.model.Postagem;
 
 import java.util.List;
 
 public class ImagemActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
-    private List<Post> post;
+    private List<Postagem> postagens;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,22 +28,20 @@ public class ImagemActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
 
         //adapter
-        this.addPost();
-
-        FotoAdapter adapter = new FotoAdapter(post);
+        this.adicionarPostagens();
+        FotoAdapter adapter = new FotoAdapter(postagens);
         recyclerView.setAdapter(adapter);
-
     }
 
-    public void addPost(){
-        Post post = new Post("Redentor", R.drawable.redentor_verde);
-        this.post.add(post);
+    public void adicionarPostagens(){
+        Postagem post = new Postagem("Redentor", R.drawable.redentor_verde);
+        this.postagens.add(post);
 
-        post = new Post("Lanche", R.drawable.lanche);
-        this.post.add(post);
+        post = new Postagem("Lanche", R.drawable.lanche);
+        this.postagens.add(post);
 
-        post = new Post("Obervando o desenho no muro", R.drawable.muro);
-        this.post.add(post);
+        post = new Postagem("Obervando o desenho no muro", R.drawable.muro);
+        this.postagens.add(post);
 
     }
 }
